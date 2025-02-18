@@ -1,15 +1,26 @@
-# whiteStone_dev 🚀
+
 
 <p align="center">
     <p align="center">
-        <img src="/wsd-org-readme/Logo3.png" alt="whiteStone_dev Logo" width="200"/>
+        <img src="https://github.com/whitestonedev.png" alt="whiteStone_dev Logo" width="200"/>
     </p>
-    <strong>whiteStone_dev</strong>
+    
 </p>
 
-[![Website](about:sanitized)](https://whitestonedev.com.br)
-[![Instagram](about:sanitized)](https://www.instagram.com/whitestonedev)
-[![Slack](about:sanitized)](whitestonedev.slack.com)
+# whiteStone_dev 🚀
+
+
+<p align="center">
+    <a href="https://whitestonedev.com.br">
+        <img src="https://img.shields.io/badge/Website-Visit%20our%20site-blue" alt="Website">
+    </a>
+    <a href="https://www.instagram.com/whitestonedev">
+        <img src="https://img.shields.io/badge/Instagram-Follow%20us%20on%20Instagram-E4405F" alt="Instagram">
+    </a>
+    <a href="https://whitestonedev.slack.com">
+        <img src="https://img.shields.io/badge/Slack-Join%20our%20Slack-4A154B" alt="Slack">
+    </a>
+</p>
 
 ## O que é a whiteStone_dev? 🤔
 
@@ -70,6 +81,3 @@ Seja você dev 👨‍💻👩‍💻, empresa 🏢 ou entusiasta da tecnologia,
 **[Visite nosso Website e entre em contato!](https://whitestonedev.com.br)** 📧 Saiba como você pode participar e impulsionar a tecnologia e o conhecimento em nossa região! ✨
 
 **#whitestonedev #comunidadedev #opensource #tecnologia #desenvolvimento #networking #acessibilidade #inclusaoTech**
-
-```
-```
