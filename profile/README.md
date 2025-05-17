@@ -22,62 +22,54 @@
     </a>
 </p>
 
-## O que é a whiteStone_dev? 🤔
 
-**whiteStone_dev** é uma comunidade **open source** vibrante, que nasceu da paixão pela tecnologia e do desejo de **conectar mentes criativas e apaixonadas** da região continental da Grande Floripa. Surgimos da **dor real da comunidade de desenvolvedores** 😥 local, que enfrentava a dificuldade de acesso a eventos tech, quase sempre concentrados na ilha de Florianópolis 🏝️.
+[whiteStone\_dev](https://whitestonedev.com.br) é uma comunidade open source que promove eventos e desenvolve projetos colaborativos para fortalecer o ecossistema de tecnologia na região continental da Grande Florianópolis, especialmente em Palhoça/SC.
 
-Para **desenvolvedores, estudantes e entusiastas de tecnologia** 👨‍💻👩‍💻 da região, ir a eventos tech na ilha era um desafio devido a longos deslocamentos 🚗🚌, horários de trabalho e estudo, e orçamentos limitados 💸.
+## Sobre a Comunidade
 
-A **whiteStone_dev** foi criada para **quebrar barreiras geográficas 🗺️ e financeiras 💰**, tornando eventos de tecnologia **acessíveis a todos** 🫂. Nosso objetivo é **conectar mentes**, **compartilhar conhecimento 📚 de forma prática e acessível**, e **promover networking inclusivo 🤝**, construindo um **ecossistema tech mais forte e diverso** em nossa região.
+Criada para superar barreiras geográficas e financeiras, a whiteStone\_dev organiza eventos gratuitos com foco em temas como desenvolvimento web, mobile, inteligência artificial, cloud computing, entre outros. Os encontros são realizados regularmente na região da Pedra Branca, proporcionando acesso facilitado para a comunidade local.
 
-## Quem Somos 👥
+## Projetos em Destaque
 
-Somos um grupo de desenvolvedores que se reúne periodicamente na **Pedra Branca 📍**, facilitando o acesso para a comunidade da região continental. Nossos encontros são dedicados a:
+A comunidade mantém diversos projetos open source. Alguns dos principais incluem:
 
-* **Explorar as últimas tendências tecnológicas:** 🔭 Mergulhamos em temas como desenvolvimento web, mobile, IA, cloud e mais.
-* **Compartilhar conhecimento de forma prática e acessível:** 🧑‍🏫 Eventos com palestras e workshops de experts, **sempre gratuitos 🆓 e com coffee break ☕.**
-* **Promover networking de qualidade e inclusivo:** 🤝 Ambiente ideal para expandir sua rede de contatos, **independentemente de localização ou condição financeira.**
-* **Trocar projetos e experiências:** 💡 Construímos juntos um ambiente de apoio e crescimento coletivo.
+* **[landing-page](https://github.com/whitestonedev/landing-page)**: Site oficial da whiteStone\_dev, desenvolvido com Docusaurus.
+* **[calendario-tech](https://github.com/whitestonedev/calendario-tech)**: Plataforma colaborativa para divulgação de eventos de tecnologia na região.
+* **[talk-to-markdown](https://github.com/whitestonedev/talk-to-markdown)**: Ferramenta para converter palestras em arquivos Markdown.
 
-## Nossos Eventos 🎉
+Para explorar todos os projetos, visite nosso [repositório no GitHub](https://github.com/orgs/whitestonedev/repositories).
 
-Em cada evento whiteStone_dev, você encontra:
+## Como Ajudar
 
-* **Eventos Temáticos 🗓️:** Temporadas focadas em temas específicos para aprofundar o conhecimento.
-* **Palestras e Workshops Práticos 🗣️:** Conteúdo de alta qualidade com foco em aplicação.
-* **Networking Tech 🧑‍🤝‍🧑:** Conecte-se com outros profissionais e expanda sua rede.
-* **Coffee Break Energizante e Gratuito ☕:**  Networking em ambiente agradável e com coffee break **sem custo**.
-* **Eventos Gratuitos e Abertos 🆓:** Acesso livre e gratuito para todos os interessados em tecnologia.
-* **Conteúdo Open Source 🔓:** Transparência e colaboração são nossos valores.
-* **Registros e Materiais Acessíveis 📹:**  Eventos gravados, com **transmissão ao vivo 🔴** e materiais publicados em nosso blog 📝, garantindo **acessibilidade**.
+A whiteStone\_dev é uma comunidade sem fins lucrativos que depende do apoio de voluntários e patrocinadores para continuar promovendo eventos gratuitos e desenvolvendo projetos open source. Existem diversas formas de colaborar:
 
-## Por Que Apoiar a whiteStone_dev? ❤️
+### Contribua com Código
 
-A whiteStone_dev é **sem fins lucrativos** e **mantida pela comunidade**. Seu apoio é **essencial** para continuarmos a **quebrar barreiras e oferecer eventos gratuitos e acessíveis!** 🙏
+Se você é desenvolvedor, pode contribuir com nossos projetos no GitHub. Confira a lista de repositórios e veja onde suas habilidades podem ser aplicadas.
 
-Ao nos apoiar, você investe na:
+### Apoie Nossos Eventos
 
-* **Democratização do conhecimento tech 📚**
-* **Fortalecimento do ecossistema tech local 🚀**
-* **Promoção da inovação e colaboração 💡**
-* **Associação da sua marca a valores positivos 🌟**
-* **Conexão com talentos da área tech 🧑‍🤝‍🧑**
+Empresas e indivíduos podem apoiar financeiramente nossos eventos, ajudando a cobrir custos como:
 
-**Descubra como você pode colaborar e os benefícios de ser um patrocinador em nosso [post de patrocínio aqui](whitestonedev.com.br/eventos/patrocinio).** 🚀
+* Locação de espaços
+* Coffee breaks
+* Materiais de divulgação
+* Brindes e sorteios
 
-## Últimos Projetos Adicionados 💻
+Além disso, é possível patrocinar palestrantes ou oferecer apoio logístico.
 
-**Para conferir nossos projetos mais recentes e detalhes sobre cada um, visite nosso [website](https://whitestonedev.com.br)!** 🌐 Lá você encontra informações completas e pode acompanhar de perto as iniciativas da comunidade whiteStone_dev.
+### Divulgue
 
-* [Nome do Projeto 1](https://www.google.com/): Descrição breve do projeto 1.
-* [Nome do Projeto 2](https://www.google.com/): Descrição breve do projeto 2.
-* [Nome do Projeto 3](https://www.google.com/): Descrição breve do projeto 3.
-* **[Ver todos os projetos no nosso Website](whitestonedev.com.br/blog)**
+Ajude a expandir nossa comunidade compartilhando nossos eventos e projetos em suas redes sociais e círculos profissionais.
 
-## Junte-se à whiteStone_dev! 👋
+Para mais informações sobre como apoiar, visite nossa página de [patrocínio](https://whitestonedev.com.br/eventos/sobre/patrocinio).
 
-Seja você dev 👨‍💻👩‍💻, empresa 🏢 ou entusiasta da tecnologia, **acredite na acessibilidade ♿, inclusão 🫂 e no poder da comunidade 💪 - junte-se à whiteStone_dev e construa conosco o futuro da tecnologia!** 🚀
+## Participe
 
-**[Visite nosso Website e entre em contato!](https://whitestonedev.com.br)** 📧 Saiba como você pode participar e impulsionar a tecnologia e o conhecimento em nossa região! ✨
+Se você é desenvolvedor, estudante ou entusiasta de tecnologia e deseja contribuir com projetos open source, participar de eventos ou simplesmente trocar experiências, junte-se a nós:
 
-**#whitestonedev #comunidadedev #opensource #tecnologia #desenvolvimento #networking #acessibilidade #inclusaoTech**
+* **Site Oficial**: [whitestonedev.com.br](https://whitestonedev.com.br)
+* **Instagram**: [@whitestonedev](https://www.instagram.com/whitestonedev)
+* **LinkedIn**: [@whitestone\_dev](https://www.linkedin.com/company/whitestone-dev)
+* **YouTube**: [@whiteStone\_dev](https://www.youtube.com/@whiteStone_dev)
+* **WhatsApp**: [Grupo](https://chat.whatsapp.com/LiB7z1n1Ahe3Ts0YD5uPoe)
